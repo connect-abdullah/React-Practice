@@ -15,6 +15,8 @@ In this repository, I will be pushing my **React Practice Projects** as I contin
 Here are some of the projects available in this repository:
 
 1. **Project 1: Expense Tracker** - [Website Link](https://pocketflow.netlify.app/)
+2. **Project 2: Travel Journal** 
+3. **Project 3: Meme Generator** 
 
 ## Why This Repository?
 This repository serves as a **learning journal** where I can track my progress and share my work with others. Feel free to explore, fork, and contribute!
